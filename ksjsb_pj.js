@@ -263,7 +263,7 @@ let _0x134a17 = new Date(),
     _0x459e63 = 1.07,
     _0x2e716e = 0,
     _0x5bc515 = 'ksjsb',
-    _0x180c0c = '',
+    _0x180c0c = 'https://ghproxy.com/https://raw.githubusercontent.com/xiaojia21190/ym/main/invite.json',
     _0x75eec0 = 'https://127.0.0.1/'
 
 class _0x9d8dda {
@@ -456,7 +456,7 @@ class _0x9d8dda {
     }
 
     async ['ksAdParam'](_0x4738b3) {
-        let _0x130dec = 'https://losemyself.coding.net/p/ksjsb/d/ksjsb/git/raw/master/1.json?download=false',
+        let _0x130dec = 'https://ghproxy.com/https://raw.githubusercontent.com/xiaojia21190/ym/main/ks.json',
             _0x9dce39 = '',
             _0x2bb596 = _0x495d61(_0x130dec, this['cookie'], _0x9dce39)
 
@@ -676,7 +676,7 @@ class _0x9d8dda {
     }
 
     async ['ksNeoAdParam'](_0x3356fd) {
-        let _0x35bd12 = 'https://losemyself.coding.net/p/ksjsb/d/ksjsb/git/raw/master/1.json?download=false',
+        let _0x35bd12 = 'https://ghproxy.com/https://raw.githubusercontent.com/xiaojia21190/ym/main/ks.json',
             _0x5f768f = ``,
             _0x110b63 = _0x495d61(_0x35bd12, this['cookie'], _0x5f768f)
 
